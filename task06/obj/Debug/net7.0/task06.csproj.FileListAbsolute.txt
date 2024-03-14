@@ -1,0 +1,14 @@
+D:\OneDrive\Рабочий стол\01.08.2023\task06\bin\Debug\net7.0\task06.exe
+D:\OneDrive\Рабочий стол\01.08.2023\task06\bin\Debug\net7.0\task06.deps.json
+D:\OneDrive\Рабочий стол\01.08.2023\task06\bin\Debug\net7.0\task06.runtimeconfig.json
+D:\OneDrive\Рабочий стол\01.08.2023\task06\bin\Debug\net7.0\task06.dll
+D:\OneDrive\Рабочий стол\01.08.2023\task06\bin\Debug\net7.0\task06.pdb
+D:\OneDrive\Рабочий стол\01.08.2023\task06\obj\Debug\net7.0\task06.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\01.08.2023\task06\obj\Debug\net7.0\task06.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\01.08.2023\task06\obj\Debug\net7.0\task06.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\01.08.2023\task06\obj\Debug\net7.0\task06.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\01.08.2023\task06\obj\Debug\net7.0\task06.dll
+D:\OneDrive\Рабочий стол\01.08.2023\task06\obj\Debug\net7.0\refint\task06.dll
+D:\OneDrive\Рабочий стол\01.08.2023\task06\obj\Debug\net7.0\task06.pdb
+D:\OneDrive\Рабочий стол\01.08.2023\task06\obj\Debug\net7.0\task06.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\01.08.2023\task06\obj\Debug\net7.0\ref\task06.dll

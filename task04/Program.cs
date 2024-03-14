@@ -8,5 +8,5 @@ if (number > 99 && number < 1000)
 }
 else
 {
-    Console.WriteLine("число не трехзначное");
+    Console.WriteLine("число не трехзначное")
 }
