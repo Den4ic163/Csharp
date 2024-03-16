@@ -6,3 +6,5 @@ for (int i = -number; i <= number; i++)
 {
     Console.Write(i+" ");
 }
+
+
